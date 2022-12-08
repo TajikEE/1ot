@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<forecasts>
+	<forecast date="2022-09-03">
+		<night>
+			<phenomenon>Light shower</phenomenon>
+			<tempmin>0</tempmin>
+			<tempmax>12</tempmax>
+			<text>Widely clear and dry in inland. More clouds with scattered showers on the coastal areas. Westerly wind 1-6 m/s, on coastal areas north, northwest wind 5-11 m/s. Air temperature in inland 0..+5, on the ground to -3, on the coast up to 12°C.</text>
+			<place>
+				<name>Harku</name>
+				<phenomenon>Variable clouds</phenomenon>
+				<tempmin>4</tempmin>
+			</place>
+			<place>
+				<name>Jõhvi</name>
+				<phenomenon>Light shower</phenomenon>
+				<tempmin>5</tempmin>
+			</place>
+			<place>
+				<name>Tartu</name>
+				<phenomenon>Clear</phenomenon>
+				<tempmin>4</tempmin>
+			</place>
+			<place>
+				<name>Pärnu</name>
+				<phenomenon>Few clouds</phenomenon>
+				<tempmin>8</tempmin>
+			</place>
+			<place>
+				<name>Kuressaare</name>
+				<phenomenon>Light shower</phenomenon>
+				<tempmin>9</tempmin>
+			</place>
+			<place>
+				<name>Türi</name>
+				<phenomenon>Clear</phenomenon>
+				<tempmin>2</tempmin>
+			</place>
+			<wind>
+				<name>Kuusiku</name>
+				<direction>West wind</direction>
+				<speedmin>1</speedmin>
+				<speedmax>4</speedmax>
+				<gust/>
+			</wind>
+			<wind>
+				<name>Väike-Maarja</name>
+				<direction>West wind</direction>
+				<speedmin>1</speedmin>
+				<speedmax>6</speedmax>
+				<gust/>
+			</wind>
+			<wind>
+				<name>Võrtsjärv</name>
+				<direction>Southwest wind</direction>
+				<speedmin>1</speedmin>
+				<speedmax>5</speedmax>
+				<gust/>
+			</wind>
+			<sea>Sep 3, 2022 02:30 UTC
+
+Forecast for Baltic Sea valid 24 hours from 07:00 UTC Sep 3 to 07:00 UTC Sep 4, 2022. 
+ 
+No warnings.
+
+Weather summary: southwestern part of extensive Low.
+
+Northern Baltic, Gulf of Finland, Moonsund, Northern Gulf of Riga: 
+north, northwest 4-9, in gusts up to 12 m/s. Showers in many places. Visibility from moderate to good.
+</sea>
+			<peipsi>West, northwest wind 3-8 m/s. Wave height 0.3-0.7 m. Possible showers. Visibility mainly good. Air temperature 8..10°C.</peipsi>
+		</night>
+		<day>
+			<phenomenon>Moderate shower</phenomenon>
+			<tempmin>12</tempmin>
+			<tempmax>16</tempmax>
+			<text>A few and variable cloud with showers in places. West, northwest wind 2-8, on coast in gusts up to 11 m/s. Air temperature 12..16°C.</text>
+			<place>
+				<name>Harku</name>
+				<phenomenon>Variable clouds</phenomenon>
+				<tempmax>14</tempmax>
+			</place>
+			<place>
+				<name>Jõhvi</name>
+				<phenomenon>Moderate shower</phenomenon>
+				<tempmax>12</tempmax>
+			</place>
+			<place>
+				<name>Tartu</name>
+				<phenomenon>Variable clouds</phenomenon>
+				<tempmax>15</tempmax>
+			</place>
+			<place>
+				<name>Pärnu</name>
+				<phenomenon>Variable clouds</phenomenon>
+				<tempmax>16</tempmax>
+			</place>
+			<place>
+				<name>Kuressaare</name>
+				<phenomenon>Moderate shower</phenomenon>
+				<tempmax>14</tempmax>
+			</place>
+			<place>
+				<name>Türi</name>
+				<phenomenon>Variable clouds</phenomenon>
+				<tempmax>14</tempmax>
+			</place>
+			<wind>
+				<name>Kuusiku</name>
+				<direction>Northwest wind</direction>
+				<speedmin>2</speedmin>
+				<speedmax>7</speedmax>
+				<gust/>
+			</wind>
+			<wind>
+				<name>Väike-Maarja</name>
+				<direction>Northwest wind</direction>
+				<speedmin>2</speedmin>
+				<speedmax>7</speedmax>
+				<gust/>
+			</wind>
+			<wind>
+				<name>Võrtsjärv</name>
+				<direction>West wind</direction>
+				<speedmin>2</speedmin>
+				<speedmax>7</speedmax>
+				<gust/>
+			</wind>
+			<sea/>
+			<peipsi>West, northwest wind 3-8 m/s. Wave height 0.3-0.7 m. Possible showers. Visibility mainly good. Air temperature 12..14°C.</peipsi>
+		</day>
+	</forecast>
+	<forecast date="2022-09-04">
+		<night>
+			<phenomenon>Few clouds</phenomenon>
+			<tempmin>2</tempmin>
+			<tempmax>12</tempmax>
+			<text>Slightly cloudy, after midnight from north it is getting more cloudy with scattered showers locally. Northwest, north wind 2-7, on northern coast in gusts 12 m/s. Air temperature 2..7, on the ground around 0°C, on the coast up to 12°C.</text>
+		</night>
+		<day>
+			<phenomenon>Light shower</phenomenon>
+			<tempmin>11</tempmin>
+			<tempmax>16</tempmax>
+			<text>Variable cloud. Locally showers with higher probability in Norteastern Estonia. In the evening clouds and showers turning away. Northwest, north wind 3-9, on coast in gusts 12 m/s. Air temperature 11..16°C.</text>
+		</day>
+	</forecast>
+	<forecast date="2022-09-05">
+		<night>
+			<phenomenon>Variable clouds</phenomenon>
+			<tempmin>2</tempmin>
+			<tempmax>12</tempmax>
+			<text>Slightly or partly cloudv, on coast locally showers possible. Northerly 1-7 m/s. Air temperature 2..7, near the ground around 0°C,on coast to 12°C. </text>
+		</night>
+		<day>
+			<phenomenon>Light rain</phenomenon>
+			<tempmin>11</tempmin>
+			<tempmax>16</tempmax>
+			<text>Cloud with bright spells. Locally some light rain. Northerly 2-7 m/s. Air temperature 11..16°C. </text>
+		</day>
+	</forecast>
+	<forecast date="2022-09-06">
+		<night>
+			<phenomenon>Variable clouds</phenomenon>
+			<tempmin>2</tempmin>
+			<tempmax>12</tempmax>
+			<text>Slightly or partly cloudy. Locally fog. Weak variable wind. Air temperature 2..7, near the ground around 0°C,on coast to 12°C. </text>
+		</night>
+		<day>
+			<phenomenon>Light shower</phenomenon>
+			<tempmin>12</tempmin>
+			<tempmax>17</tempmax>
+			<text>Variable cloudy. On islands showers. Weak variable wind, turning in afternoon westerly direction. Air temperature 12..17°C. </text>
+		</day>
+	</forecast>
+</forecasts>
